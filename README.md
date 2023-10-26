@@ -1,6 +1,6 @@
 # CryptoClustering
-## This is a project task to perform Unsupervised Maching Learning
+## This is a project task to perform Unsupervised Machine Learning
 ### Tools: Python 
-### Unsupervised Maching Learning Methodology:
+### Unsupervised Machine Learning Methodology:
 #### 1- K-Mean Clustering
 #### 2- Principal Component Analysis (CPA)
